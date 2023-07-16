@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="KnucklesEXE1.png" width="689" height="720">
+  <SubTexture name="KnuxUp0000_copy_138x208.png" x="0" y="0" width="208" height="131" rotated="true"  frameX="-4" frameY="-0" frameWidth="138" frameHeight="208"/>
+  <SubTexture name="KnuxUp0002_copy_138x208.png" x="208" y="0" width="203" height="136" rotated="true"  frameX="-1" frameY="-5" frameWidth="138" frameHeight="208"/>
+  <SubTexture name="KnuxIdle0010_copy_118x188.png" x="0" y="131" width="188" height="112" rotated="true"  frameX="-6" frameY="-0" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0011_copy_118x188.png" x="411" y="0" width="188" height="112" rotated="true"  frameX="-6" frameY="-0" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0014_copy_118x188.png" x="411" y="112" width="188" height="112" rotated="true"  frameX="-6" frameY="-0" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0008_copy_118x188.png" x="188" y="136" width="187" height="112" rotated="true"  frameX="-6" frameY="-1" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0007_copy_118x188.png" x="0" y="243" width="185" height="111" rotated="true"  frameX="-7" frameY="-3" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0006_copy_118x188.png" x="375" y="224" width="184" height="111" rotated="true"  frameX="-7" frameY="-4" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0004_copy_118x188.png" x="185" y="248" width="180" height="111" rotated="true"  frameX="-7" frameY="-8" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0000_copy_118x188.png" x="0" y="354" width="177" height="118" rotated="true"  frameX="-0" frameY="-11" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0002_copy_118x188.png" x="559" y="224"  width="116" height="177" frameX="-2" frameY="-11" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxLeft0000_copy_161x163.png" x="365" y="335" width="162" height="161" rotated="true"  frameX="-0" frameY="-1" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxLeft0002_copy_161x163.png" x="527" y="401" width="162" height="160" rotated="true"  frameX="-1" frameY="-1" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxDown0000_copy_159x150.png" x="177" y="561" width="143" height="159" rotated="true"  frameX="-0" frameY="-7" frameWidth="159" frameHeight="150"/>
+  <SubTexture name="KnuxRight0002_copy_161x163.png" x="320" y="561" width="160" height="157" rotated="true"  frameX="-3" frameY="-3" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxDown0002_copy_159x150.png" x="480" y="561" width="147" height="157" rotated="true"  frameX="-1" frameY="-3" frameWidth="159" frameHeight="150"/>
+  <SubTexture name="KnuxLeft0001_copy_161x163.png" x="0" y="472"  width="161" height="161" frameX="-0" frameY="-1" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxRight0000_copy_161x163.png" x="177" y="359"  width="161" height="161" frameX="-0" frameY="-2" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxDown0001_copy_159x150.png" x="177" y="561" width="143" height="159" rotated="true"  frameX="-0" frameY="-7" frameWidth="159" frameHeight="150"/>
+  <SubTexture name="KnuxIdle0001_copy_118x188.png" x="0" y="354" width="177" height="118" rotated="true"  frameX="-0" frameY="-11" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0003_copy_118x188.png" x="559" y="224"  width="116" height="177" frameX="-2" frameY="-11" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0005_copy_118x188.png" x="185" y="248" width="180" height="111" rotated="true"  frameX="-7" frameY="-8" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0009_copy_118x188.png" x="188" y="136" width="187" height="112" rotated="true"  frameX="-6" frameY="-1" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0012_copy_118x188.png" x="411" y="0" width="188" height="112" rotated="true"  frameX="-6" frameY="-0" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxIdle0013_copy_118x188.png" x="411" y="0" width="188" height="112" rotated="true"  frameX="-6" frameY="-0" frameWidth="118" frameHeight="188"/>
+  <SubTexture name="KnuxRight0001_copy_161x163.png" x="177" y="359"  width="161" height="161" frameX="-0" frameY="-2" frameWidth="161" frameHeight="163"/>
+  <SubTexture name="KnuxUp0001_copy_138x208.png" x="0" y="0" width="208" height="131" rotated="true"  frameX="-4" frameY="-0" frameWidth="138" frameHeight="208"/>
+</TextureAtlas>
